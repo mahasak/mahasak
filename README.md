@@ -6,11 +6,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/mahasak/mahasak/main/profile-3d-contrib/profile-green-animate.svg" height="500" alt="Snake animation" />
 </div>
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@mahasakpijittum&theme=vue" alt="Layout with last medium posts"  />
-</div>
-
 <br clear="both">
 
 
@@ -23,15 +18,6 @@
   </a>
   <a href="https://www.linkedin.com/in/mahasakpijittum/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/maxpijittum" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  />
-  </a>
-  <a href="https://instagram.com/mahasak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
-  </a>
-  <a href="https://dev.to/mahasak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="devto logo"  />
   </a>
 </div>
 
